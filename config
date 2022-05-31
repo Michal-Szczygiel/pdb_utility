@@ -1,0 +1,11 @@
+pdb_directory: PDB_structures
+xml_directory: Domain_architectures
+
+log_file: log.txt
+general_statistics_file: gen_stat.txt
+matched_statistics_file: matched_stat.txt
+where_ligand_file: where.txt
+
+ligands: {CLR MHQ 94R ERG LNP LAN VD3 DVE HC9 HC3 CO1 C3S B81 Y01 
+          2OB CLL 5JK HCR HC2 HCD 0GV YK8 2DC PLO AND XCA K2B}
+
