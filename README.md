@@ -1,4 +1,4 @@
-# Zawartości katalogu „Projekt”:
+# Zawartość projektu:
 - podkatalog „PDB_structures” – zawiera listę PDB ID („PDB_IDs_batch.txt”) użytych struktur białek oraz skrypt
 pobierający udostępniany przez bazę danych RCSB PDB („batch_download.sh”). Podkatalog służy również jako repozytorium pobranych struktur PDB,
 - podkatalog „Domain_architectures” – repozytorium na pliki XML zawierające 
